@@ -31,7 +31,7 @@ export default Header
 const Container = styled.div`
     min-height: 60px;
     position: fixed;
-    dispaly: flex;
+    display: flex;
     align-items: center;
     padding: 0px 20px;
     top:0;
